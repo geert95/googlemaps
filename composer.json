@@ -1,0 +1,12 @@
+{
+    "name": "geertboetzkes/googlemaps",
+    "autoload": {
+        "psr-4": {
+            "geertboetzkes\\googlemaps\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0",
+        "nategood/httpful": "^0.2.20"
+    }
+}
